@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+openai
+faiss-cpu
+numpy
+pypdf
+tqdm
+requests
